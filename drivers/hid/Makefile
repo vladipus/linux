@@ -112,6 +112,7 @@ obj-$(CONFIG_HID_UDRAW_PS3)	+= hid-udraw-ps3.o
 obj-$(CONFIG_HID_LED)		+= hid-led.o
 obj-$(CONFIG_HID_XINMO)		+= hid-xinmo.o
 obj-$(CONFIG_HID_ZEROPLUS)	+= hid-zpff.o
+obj-$(CONFIG_HID_ZUOYA)		+= hid-zuoya-mmr6.o
 obj-$(CONFIG_HID_ZYDACRON)	+= hid-zydacron.o
 
 wacom-objs			:= wacom_wac.o wacom_sys.o
